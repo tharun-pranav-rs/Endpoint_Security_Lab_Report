@@ -29,4 +29,4 @@ It contains detailed lab reports, evidence of execution, and analysis of securit
 ---
 
 ## 📬 Contact
-**Tharun Pranav** *Aspiring Cybersecurity Analyst | CompTIA Security+ Certified* [LinkedIn Profile](https://www.linkedin.com/in/tharun-pranav-r-s) | [GitHub](https://github.com/TharunPranav)
+**Tharun Pranav** | CompTIA Security+ Certified* [LinkedIn Profile](https://www.linkedin.com/in/tharun-pranav-r-s) | [GitHub](https://github.com/TharunPranav)
